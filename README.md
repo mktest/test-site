@@ -1,4 +1,4 @@
 test-site
 =========
 
-test site
+a test site
